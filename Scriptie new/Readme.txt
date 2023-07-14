@@ -1,4 +1,5 @@
 These files contain two notebooks that scraped and processed CEO quotes from press releases from the website www.sec.gov.
+These quotes can be found in exhibit 99.1 and range from 2017 - 2022. This link is an example that contains CEO quotes: https://www.sec.gov/Archives/edgar/data/1018724/000101872423000002/amzn-20221231xex991.htm
 The original datasets are combined with their relevant stock prices and can be found in the folder Datasets
 
 The file 'Mini library for CEO quotes offers a python library that comes with 3 methods.
